@@ -1,4 +1,0 @@
-com\crawler\process\ProcessPages.class
-com\crawler\main\Crawler.class
-com\crawler\constants\ApplicationConstants.class
-com\crawler\io\ApplicationProperties.class
