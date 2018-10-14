@@ -36,7 +36,7 @@ Trade Offs
 
 1) Application runs bit slow for urls which have huge numbers of link to other pages or static content.
 
-2) Provided more time the time complexity of the application could be imporoved.
+2) The time complexity of the application could be imporoved had more time be given.
 
 3) The simple text output could be presented in graphical form using neo4j with appropriate time.
 
