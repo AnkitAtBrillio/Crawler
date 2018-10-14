@@ -26,7 +26,7 @@ Setup
 
 5) Update the property "crawl.domain.url" with the URL for which the mapping is required.
 
-6) Run the project using command "mvn exec:java -Dexec.mainClass=\src\main\java\com\crawler\main\Crawler.java" from root directory.
+6) Run the project using command "mvn clean install exec:java -Dexec.mainClass=com.crawler.main.Crawler" from root directory.
 
 7) Check the ouput file "mapping.txt" in root directory for the ouput.
 
